@@ -1,3 +1,2 @@
-import { taskFirst, taskNext } from './0-constants.js';
-
+import { taskFirst, taskNext } from '/alx-backend-javascript/0x00-ES6_basic/0-constants.js';
 console.log(`${taskFirst()} ${taskNext()}`);
